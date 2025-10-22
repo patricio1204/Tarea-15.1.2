@@ -1,0 +1,18 @@
+.barraNavegacion{
+    color: white;
+}
+
+.titulo{
+    margin-top: 5vh;
+}
+
+#carouselExample{
+    height: 8vh;
+}
+
+@media screen and (max-width: 768px) {
+    .texto{
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
